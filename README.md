@@ -3,6 +3,8 @@
 
 - 🌱 I’m here to learn to program computers learn to write 
 - 👯 I work in a shipyard participating on ship construction
+- 📫 How to reach me:
+
 
 <!--
 **hari983/hari983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

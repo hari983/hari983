@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+I work in a ship repair yard.
+
+
+
 <!--
 - 👯 I work 5 + 1/2 days a week approx 9 hours a day in a shipyard participating on ship construction
 - 🌱 I’m here to learn to program computers learn to write 
